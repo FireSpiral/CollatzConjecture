@@ -14,6 +14,7 @@ public class Main {
                 System.out.println(n);
                 count++;
             }
+
             System.out.println("That took " + count + " tries");
         }
     }
